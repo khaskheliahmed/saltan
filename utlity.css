@@ -17,6 +17,7 @@ html{
 
 .d-flex{
     display: flex;
+    /* display: inline; */
 }
 .flex-wrap{
     flex-wrap: wrap;
@@ -47,6 +48,12 @@ html{
 }
 .gap-8{
     gap: 35px;
+}
+.font-size1{
+    font-size: 15px
+}
+.font-size2{
+    font-size: 15px;
 }
 
 /* flex classes ended */
@@ -89,6 +96,13 @@ html{
 
 .my-{
     margin: 5px 0px;
+}
+.mb1{
+    margin-bottom: 20px;
+
+}
+.mb2{
+    margin-bottom: 40px;
 }
 /* margin classes ended */
 

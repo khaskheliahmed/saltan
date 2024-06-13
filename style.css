@@ -11,16 +11,16 @@ a{
 
 
 /* navbar started */
-.d-flex{
-    /* margin: 20px; */
-}
 .logo{
     width: 165px;
+    
 }
 .nav-text{
+   
     font-size: 20px;
     font-weight: 300;
 }
+
 .franchise{
     background-color: transparent;
     color: white;
@@ -49,4 +49,35 @@ a{
 /* container started */
 .container-img{
     width: 100%;
+
+}
+ /* carousel-items start */
+.carousel-items{
+
+}
+.container{
+    margin: 30px;
+    border: 2px solid red;
+    text-align: center;
+    word-spacing: 6pxpx;
+    letter-spacing: 5px;
+   
+}
+.main_custom_headind{
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    /* border: 20px solid black; */
+
+}
+
+span.logo-text-hold{
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+    color: #FFFFFF;
+}
+.font-size1{
+    font-size: 
 }
