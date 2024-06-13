@@ -56,6 +56,9 @@ a{
 
 }
 .container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     margin: 30px;
     border: 2px solid red;
     text-align: center;
@@ -79,5 +82,30 @@ span.logo-text-hold{
     color: #FFFFFF;
 }
 .font-size1{
-    font-size: 
+    font-size: 14px;
+}
+.image{
+    display: flex;
+       justify-content: space-evenly;
+       /* background-color: #FFFFFF; */
+       padding: 15px;
+       margin-left: 14px;
+}
+.one{
+    background-color: #FFFFFF;
+    margin-left: 15px;
+}
+.orders{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 25px
+}
+.order_btn{
+    background-color: gray;
+    color: #ffffff;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 15px;
+    font-size: 10px;
+    padding: 20px;
 }
