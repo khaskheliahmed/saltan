@@ -9,7 +9,9 @@ html{
     font-family: "Poppins", sans-serif;
     font-weight: lighter;
 }
-
+h1{
+    font-size: 60px;
+}
 /* utility classes */
 
 
@@ -52,8 +54,11 @@ html{
 .font-size1{
     font-size: 15px
 }
+.font-size0{
+    font-size: 13px;
+}
 .font-size2{
-    font-size: 15px;
+    font-size: 25px;
 }
 
 /* flex classes ended */
@@ -87,7 +92,7 @@ html{
     margin-top: 20px;
 }
 .mt5{
-    margin-top: 25px;
+    margin-top: -8rem;
 }
 
 .mx1{
@@ -121,7 +126,7 @@ html{
     padding: 20px;
 }
 .p5{
-    padding: 25px;
+    padding: 35px;
 }
 .pt1{
     padding-top: 5px;
@@ -133,10 +138,16 @@ html{
     padding-top: 15px;
 }
 .pt4{
-    padding-top: 20px;
+    padding-top: 20px; 
 }
 .pt5{
     padding-top: 25px;
+}
+.pl{
+    padding-left: 100px;
+}
+.pb5{
+    padding-bottom: 30px;
 }
 
 .px1{
@@ -164,6 +175,9 @@ html{
 .text-white{
     color: #ffffff;
 }
+.bg-black{
+    color: #242323;
+}
 .bg-white{
     background-color: #ffffff;
 }
@@ -174,3 +188,15 @@ html{
     width: 60px;
 }
 
+.text-color{
+    color: #979797;
+}
+.bg-green{
+    background-color: green;
+}
+.foot-size{
+
+}
+.text-white_black{
+ color: #ffffffb3;
+}
