@@ -852,6 +852,72 @@ margin-top: -6rem;
     width: 110%;
     height: 320px;
 }
+.main_franchise_location{
+      border: 2px solid red;
+      display: flex;
+}
+.location_pera{
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 38px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.mini_loaction{
+    display: flex;
+    justify-self: center;
+    gap: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin: 20px;
+}
+.loaction_one{
+    width: 400px;
+    height: 360px;
+    border: 2px solid green;
+    border-radius: 6px;
+    background-color: #0f0f0f;
+    
+}
+.loaction_one img{
+    margin-left: 20px;
+    border-radius: 4px;
+}
+.location_heading{
+    width: 300px;
+    height: 210px;
+    background-color: white;
+    border-radius: 6px;
+    color: #0f0f0f; 
+}
+.location_heading h2{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 1px;
+}
+.loaction_one h2  {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+.loc_P {
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+    font-size: 12px;
+}
+.P_lo{
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    
+}
+
+
 
 
 
